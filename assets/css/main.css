@@ -2540,8 +2540,9 @@ button:disabled,
 .features a {
     display: inline-block;
     position: relative;
-    text-decoration: none;
     width: 50%;
+    text-decoration: none;
+    border-bottom-color: transparent;
 }
 
 .features li {
